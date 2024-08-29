@@ -1,8 +1,4 @@
-Aqui está um exemplo de README para o seu perfil do GitHub:
-
----
-
-# 👋 Olá! Eu sou [Seu Nome]
+Olá, me chamo Tobias Maugus
 
 Desenvolvedor com formação técnica em Informática pelo Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG) e atualmente cursando Ciências da Computação na Universidade Federal de Lavras (UFLA). Tenho experiência prática em diversas linguagens de programação e sou apaixonado por resolver problemas e criar soluções inovadoras.
 
@@ -24,14 +20,11 @@ Desenvolvedor com formação técnica em Informática pelo Centro Federal de Edu
 ## 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tobias-Maugus&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </p>
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [E-mail](mailto:seu-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/tobias-maugus)
+- [E-mail](mailto:tobiasmaugus705@gmail.com)
 
----
-
-Este README proporciona uma visão clara e atrativa do seu perfil para quem visita o seu GitHub. Lembre-se de substituir `[Seu Nome]`, `seu-usuario`, e os links pelos seus dados reais.
