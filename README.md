@@ -14,7 +14,7 @@ Desenvolvedor com formação técnica em Informática pelo Centro Federal de Edu
 
 ## 📫 Como me encontrar
 
-<a href="https://www.linkedin.com/in/tobias-maugus" target="_blank">https://www.linkedin.com/in/seu-perfil</a>
-<a href="mailto:tobias-maugus705@gmail.com">seu-email@example.com</a>
+<a href="https://www.linkedin.com/in/tobias-maugus" target="_blank">https://www.linkedin.com/in/tobias-maugus</a> <br/>
+<a href="mailto:tobias-maugus705@gmail.com">tobiasmaugus705@gmail.com</a>
 
 
