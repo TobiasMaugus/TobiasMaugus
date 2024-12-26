@@ -1,8 +1,8 @@
-## 👋Olá, me chamo Tobias Maugus
+## 👋Hello, I'm Tobias Maugus
 
-Desenvolvedor com formação técnica em Informática pelo Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG) e atualmente cursando Ciências da Computação na Universidade Federal de Lavras (UFLA). Tenho experiência prática em diversas linguagens de programação e sou apaixonado por resolver problemas e criar soluções inovadoras.
+Developer with technical training in Computer Science from the Federal Center for Technological Education of Minas Gerais (CEFET-MG) and currently pursuing a degree in Computer Science at the Federal University of Lavras (UFLA). I have hands-on experience with various programming languages and am passionate about solving problems and creating innovative solutions.
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 <p align="left">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,13 +20,13 @@ Desenvolvedor com formação técnica em Informática pelo Centro Federal de Edu
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </p>
 
-## 📚 Sobre Mim
+## 📚 About Me
 
-- 🎓 **Formação:** Técnico em Informática (CEFET-MG), Graduando em Ciências da Computação (UFLA)
-- 🧑‍🏫 **Experiência:** Ensino de informática básica, desenvolvimento de projetos de software
-- 🚀 **Em busca de:** Oportunidades na área de desenvolvimento de software para aplicar e expandir meus conhecimentos
-
-## 📫 Como me encontrar
+- 🎓 **Education:** Technical degree in Computer Science (CEFET-MG), Currently pursuing a Bachelor's in Computer Science (UFLA)
+- 🧑‍🏫 **Experience:** Teaching basic computer skills, developing software projects
+- 🚀 **Seeking:** Opportunities in the software development field to apply and expand my knowledge
+- 
+## 📫 How to Reach Me
 
 <a href="https://www.linkedin.com/in/tobias-maugus" target="_blank">https://www.linkedin.com/in/tobias-maugus</a> <br/>
 <a href="mailto:tobias-maugus705@gmail.com">tobiasmaugus705@gmail.com</a>
