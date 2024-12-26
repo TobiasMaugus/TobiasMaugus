@@ -25,7 +25,7 @@ Developer with technical training in Computer Science from the Federal Center fo
 - 🎓 **Education:** Technical degree in Computer Science (CEFET-MG), Currently pursuing a Bachelor's in Computer Science (UFLA)
 - 🧑‍🏫 **Experience:** Teaching basic computer skills, developing software projects
 - 🚀 **Seeking:** Opportunities in the software development field to apply and expand my knowledge
-- 
+  
 ## 📫 How to Reach Me
 
 <a href="https://www.linkedin.com/in/tobias-maugus" target="_blank">https://www.linkedin.com/in/tobias-maugus</a> <br/>
