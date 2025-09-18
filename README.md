@@ -4,7 +4,7 @@ Developer with technical training in Computer Science from the Federal Center fo
 
 ## 🌐 Portfolio
 
-## [Check out my Portfolio](https://portfolio-ten-ashy-46.vercel.app/)
+Check out my projects and work here: [My Portfolio](https://portfolio-ten-ashy-46.vercel.app/)
 
 ## 🛠️ Technologies and Tools
 
