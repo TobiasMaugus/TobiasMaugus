@@ -34,7 +34,3 @@ Check out my projects and work here: [My Portfolio](https://portfolio-ten-ashy-4
 
 <a href="https://www.linkedin.com/in/tobias-maugus" target="_blank">https://www.linkedin.com/in/tobias-maugus</a> <br/>
 <a href="mailto:tobias-maugus705@gmail.com">tobiasmaugus705@gmail.com</a>
-
-
-
-crie um novo tópico(ficara entre o primeiro e o segundo) apresentando meu portfolio: https://portfolio-ten-ashy-46.vercel.app/
