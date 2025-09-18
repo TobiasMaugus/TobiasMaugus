@@ -4,7 +4,11 @@ Developer with technical training in Computer Science from the Federal Center fo
 
 ## 🌐 Portfolio
 
-Check out my projects and work here: [My Portfolio](https://portfolio-ten-ashy-46.vercel.app/)
+<p style="font-size:18px;">
+  Check out my projects and work here: 
+  <a style="font-size:30px;" href="https://portfolio-ten-ashy-46.vercel.app/" target="_blank">My Portfolio</a>
+</p>
+
 
 ## 🛠️ Technologies and Tools
 
