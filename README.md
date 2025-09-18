@@ -2,6 +2,10 @@
 
 Developer with technical training in Computer Science from the Federal Center for Technological Education of Minas Gerais (CEFET-MG) and currently pursuing a degree in Computer Science at the Federal University of Lavras (UFLA). I have hands-on experience with various programming languages and am passionate about solving problems and creating innovative solutions.
 
+## 🌐 Portfolio
+
+Check out my projects and work here: [My Portfolio](https://portfolio-ten-ashy-46.vercel.app/)
+
 ## 🛠️ Technologies and Tools
 
 <p align="left">
@@ -19,16 +23,3 @@ Developer with technical training in Computer Science from the Federal Center fo
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </p>
-
-## 📚 About Me
-
-- 🎓 **Education:** Technical degree in Computer Science (CEFET-MG), Currently pursuing a Bachelor's in Computer Science (UFLA)
-- 🧑‍🏫 **Experience:** Teaching basic computer skills, developing software projects
-- 🚀 **Seeking:** Opportunities in the software development field to apply and expand my knowledge
-  
-## 📫 How to Reach Me
-
-<a href="https://www.linkedin.com/in/tobias-maugus" target="_blank">https://www.linkedin.com/in/tobias-maugus</a> <br/>
-<a href="mailto:tobias-maugus705@gmail.com">tobiasmaugus705@gmail.com</a>
-
-
